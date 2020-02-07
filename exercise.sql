@@ -1,2 +1,2 @@
-
+CREATE TABLE planeten (name VARCHAR(20), owner VARCHAR(20));
  SHOW TABLES;
